@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏠🔍 PhotoCheck
+# 🔍 PhotoCheck
 
 ### Catch a reused rental photo before you pay a deposit for it.
 
